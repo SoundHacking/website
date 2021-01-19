@@ -75,15 +75,21 @@ Example integration of cubemx with pio :
 * numpy
 * [sounddevice](https://python-sounddevice.readthedocs.io/)
 
-## [see sound](https://github.com/SoundHacking/see_sound)
+## see sound
+
+{{< new_button href="https://github.com/SoundHacking/see_sound/" text="github project" >}}
+
 * a web app framework to see the sound in different forms
 * real-time analysis of played audio
 * Playing sound with html5 [web Audio API](https://www.w3.org/TR/webaudio/)
-* [Live demo](https://soundhacking.github.io/see_sound/)
+### Live demo
 
-{{< image src="/images/wave_freq.png" width=600 >}}
+{{< iframe src="https://soundhacking.github.io/see_sound/" height="300" >}}
 
-## [librosa_demo](https://github.com/SoundHacking/librosa_demo)
+## librosa_demo
+
+{{< new_button href="https://github.com/SoundHacking/librosa_demo/" text="github project" >}}
+
 * Jupyter notebooks to showcase librosa functions
 
 {{< image src="/images/librosa.png" width=600 >}}
