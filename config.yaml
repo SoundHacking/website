@@ -1,0 +1,4 @@
+baseURL: "https://soundhacking.github.io/"
+languageCode: "en-us"
+title: "Sound Hacking"
+theme: "book"
