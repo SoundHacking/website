@@ -14,8 +14,7 @@ The idea behind the [Sound Hacking github organisation](https://github.com/Sound
 
 # Discord channel
 
-{{< discord src="https://discord.com/widget?id=780126809671991328&theme=dark" >}}
-
+{{< discord id="780126809671991328" >}}
 
 * invitation to the [Sound Hacking discord server](https://discord.gg/57cZapWHkC)
 * A place to ask questions, make suggestions and see posts about the progress
